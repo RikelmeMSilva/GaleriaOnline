@@ -1,0 +1,21 @@
+.tituloHome{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    
+}
+
+.org_titulos{
+    color: #577C8E;
+    font-size: 30px;
+    
+}
+
+.org_titulos button{
+    margin-top: 20px;
+    width: 250px;
+}
